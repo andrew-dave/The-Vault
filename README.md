@@ -17,5 +17,10 @@
  ## The SAFE:
  - Custom Designed and 3D printed safe with housing for a servo-based lock for unlocking.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8660d96d-2b03-4dc4-b372-0658b1fa81a2" width="400" style="margin-right: 70px;"  />
+  <img src="https://github.com/user-attachments/assets/8a809553-37c8-4708-a3d8-09e294b981f6" width="320" />
+</p>
+
 # Demo Video:
  Access the demo video using the following link: https://drive.google.com/file/d/1c1BBhBYi_ez_1aJ91xZJ7nyviKOWjDaa/view?usp=sharing
